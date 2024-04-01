@@ -10,5 +10,6 @@ Institute:
 
 **Publications**:
 
-_Revisiting Data Augmentation in Deep Reinforcement Learning_ in ICLR 2024, 
+_Revisiting Data Augmentation in Deep Reinforcement Learning_ in ICLR 2024
+
 Jianshu Hu, **Yunpeng Jiang**, Paul Weng
