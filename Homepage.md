@@ -6,9 +6,9 @@ Institute:
 
 2021-present PhD student at UMJI, Shanghai Jiaotong University
 
-Research Interest: Reinforcement Learning
+**Research Interest**: Reinforcement Learning
 
 **Publications**:
 
-_Revisiting Data Augmentation in Deep Reinforcement Learning_ in ICLR 2024 
+_Revisiting Data Augmentation in Deep Reinforcement Learning_ in ICLR 2024, 
 Jianshu Hu, **Yunpeng Jiang**, Paul Weng
