@@ -13,3 +13,5 @@ Institute:
 _Revisiting Data Augmentation in Deep Reinforcement Learning_ in ICLR 2024
 
 Jianshu Hu, **Yunpeng Jiang**, Paul Weng
+
+Recommended citation: Jianshu Hu, **Yunpeng Jiang**, Paul Weng. "Revisiting Data Augmentation in Deep Reinforcement Learning." ICLR 2024. https://openreview.net/forum?id=EGQBpkIEuu
