@@ -6,7 +6,7 @@ Institute:
 
 2021-present PhD student at UMJI, Shanghai Jiaotong University
 
-**Research Interest**: Reinforcement Learning
+**Research Interest**: Deep Reinforcement Learning
 
 **Publications**:
 
